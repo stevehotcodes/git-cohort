@@ -1,1 +1,2 @@
-console.log("hey you guy hope you are fairing on well!Welcome to things getting hot cause I am a jitu")
+console.log("hey you guy hope you are fairing on well!Welcome to things getting hot cause I am a jitu");
+alert("Hey you guy, dont just follow on page I am  here to power this webpage cause I am Javascript")
